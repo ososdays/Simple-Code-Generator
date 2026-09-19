@@ -15,6 +15,7 @@ namespace WindowsFormsApp2
         int RemainingKeys;
         public Form1()
         {
+            
             InitializeComponent();
             RemainingKeys = 5;
             label1.Text = Convert.ToString(RemainingKeys);
