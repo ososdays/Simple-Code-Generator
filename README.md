@@ -15,4 +15,4 @@ I also added another button to **reset the counter** and restore the number of a
 * **Background Image Layout Configuration**
 * **Simple Logic for Managing the Remaining Keys Counter**
 * **Random Code Generation**
-* **Divide and Conquer Strategy** for implementing the Generate Code logic
+* **Divide and Conquer Strategy** for implementing the Generate Code logic.
